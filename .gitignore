@@ -2,3 +2,4 @@
 .idea/workspace.xml
 venv
 .DS_Store
+app.db
